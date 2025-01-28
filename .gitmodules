@@ -1,0 +1,3 @@
+[submodule "rust-fundamentals"]
+	path = rust-fundamentals
+	url = https://github.com/renegarciat/rust-fundamentals
